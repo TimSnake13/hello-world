@@ -1,0 +1,9 @@
+<!--logs.wxml-->
+<!-- <view class="container log-list">
+  <block wx:for="{{logs}}" wx:for-item="log">
+    <text class="log-item">{{index + 1}}. {{log}}</text>
+  </block>
+</view> -->
+<view class="btn-area">
+  <navigator url="/pages/test/test" hover-class="navigator-hover">示范订单跳转链接</navigator>
+</view>
